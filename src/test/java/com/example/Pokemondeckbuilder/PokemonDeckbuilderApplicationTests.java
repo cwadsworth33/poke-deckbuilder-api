@@ -1,4 +1,4 @@
-package com.example.pokemon_deckbuilder;
+package com.example.Pokemondeckbuilder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
